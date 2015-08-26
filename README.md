@@ -10,7 +10,7 @@ The following needs to be prepared
 ## Script
 Having setup our [Rust][rust-lang] environment, it is time we explore the language.
 
-As a starting point I let `cargo` create a new project. Lets run it to see we are in a working system. I setup the editor to execute `cargo run` on `Command-B`. We can see the output below.
+I have used `cargo` to create a new project. Lets run it to see we are in a working system. I setup the editor to execute `cargo run` on `Command-B`. We can see the output below.
 
 The `println!` [macro][macro] has a trick up its sleave. Change the expression to
 
