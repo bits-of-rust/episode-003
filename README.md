@@ -1,10 +1,10 @@
 # episode-003
-Where we bind variables
+Where we play with `println!`
 
 ## Setup
 The following needs to be prepared
 
-* A `cargo` created [Rust][rust-lang] named `variables`
+* A `cargo` created [Rust][rust-lang] named `printing`
 * An editor with the project open
 
 
